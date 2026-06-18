@@ -31,7 +31,7 @@ npm run dev
 
 Acesse o site que vai aparecer no terminal (normalmente http://localhost:5173).
 
-Arquivos
+Estrutura
 
 ```
 src/
