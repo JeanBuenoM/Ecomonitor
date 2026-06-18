@@ -35,9 +35,9 @@ Estrutura
 
 ```
 src/
-  components/   Navbar, StatCard, RecordCard, WeatherCard
-  pages/        Dashboard, Register, History, Statistics
-  utils/        storage.js
+  components/   Navegacao, CartaoEstatistica, CartaoRegistro, CartaoClima
+  pages/        Painel, Registrar, Historico, Estatisticas
+  utils/        armazenamento.js
   App.jsx       rotas da aplicação
   main.jsx      ponto de entrada
   index.css     estilos e animações
