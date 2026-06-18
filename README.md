@@ -22,18 +22,18 @@ Como rodar
 
 Precisa do Node.js 18+.
 
-
+```
 git clone https://github.com/JeanBuenoM/Ecomonitor.git
 cd ecomonitor
 npm install
 npm run dev
-
+```
 
 Acesse o endereço que aparecer no terminal (normalmente http://localhost:5173).
 
 Arquivos
 
-
+```
 src/
   components/   Navbar, StatCard, RecordCard, WeatherCard
   pages/        Dashboard, Register, History, Statistics
@@ -41,3 +41,4 @@ src/
   App.jsx       rotas da aplicação
   main.jsx      ponto de entrada
   index.css     estilos e animações
+```
