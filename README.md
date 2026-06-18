@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-Acesse o endereço que aparecer no terminal (normalmente http://localhost:5173).
+Acesse o site que vai aparecer no terminal (normalmente http://localhost:5173).
 
 Arquivos
 
